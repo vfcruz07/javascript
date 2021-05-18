@@ -46,6 +46,3 @@ console.log(`O ${pessoa.name} tem ${pessoa.idade} anos`);
 console.log('O '+ pessoa.name + ' tem ' + pessoa.idade + ' anos');
 */
 
-
-
-
