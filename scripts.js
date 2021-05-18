@@ -21,3 +21,5 @@ console.log(individuo[0]);
 console.log(clima);
 
 console.log ("oi");
+
+console.log ("tchau");
