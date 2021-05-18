@@ -1,5 +1,13 @@
 
+// Declaration
+var name;
+
+//Assigment
+name = "Mike"; //deprecated
 clima = "quente";
+let idade = 29;
+
+// Objeto
 
 pessoa = {
     name:'victor',
@@ -9,15 +17,35 @@ pessoa = {
     }
 }
 
+// Array
+
 individuo = [
     'victor cruz',
-    29
+    29,
 ]
 
 
-console.log(pessoa.name);
-console.log(pessoa.andar());
-console.log(individuo[0]);
-console.log(clima);
+const person = {
+    name: 'Jhon',
+    age: 30,
+    weight: 88.6,
+    isAdmin: true,
+}
 
-console.log ("oi");
+
+
+/*
+console.log(name);
+
+console.log(pessoa.name);
+
+console.log(individuo[0]);
+
+console.log(`O ${pessoa.name} tem ${pessoa.idade} anos`);
+
+console.log('O '+ pessoa.name + ' tem ' + pessoa.idade + ' anos');
+*/
+
+
+
+
