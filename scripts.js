@@ -19,3 +19,5 @@ console.log(pessoa.name);
 console.log(pessoa.andar());
 console.log(individuo[0]);
 console.log(clima);
+
+console.log ("oi");
